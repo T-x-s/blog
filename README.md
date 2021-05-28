@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 home: true
 heroText: The Jokul
@@ -25,3 +26,7 @@ features:
 - title: Tomorrow
   details: 希望更多的爱好者能够参与进来，帮助这个主题更好的成长
 ---
+=======
+# blog
+基于Vuepress和vuepress-theme-reco搭建的个人博客
+>>>>>>> 9ff866bddd22dfb02c89b8ea5cdcce6a89801c1b
