@@ -27,7 +27,7 @@ module.exports = {
   "dest": "public",
   "theme": "reco",
   "themeConfig": {
-    "lastUpdated": '最后更新于',
+
     // 导航栏
     "nav": [
       {
@@ -96,13 +96,19 @@ module.exports = {
       }
     ],
     // "logo": "/logo.png",
+    // 搜索框
     "search": true,
     "searchMaxSuggestions": 10,
-    "lastUpdated": "Last Updated",
+    // 最后更新时间
+    "lastUpdated": "最后更新于",
+    // 全局作者
     "author": "Jokul",
+    // 作者头像
     "authorAvatar": "/JoKul.png",
+    // 备案
     "record": "xxxx",
-    "startYear": "2017"
+    // 项目开始时间
+    "startYear": "2021"
   },
   "markdown": {
     "lineNumbers": true

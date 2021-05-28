@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: The Jokul
+heroText: 飞跃雪山
 tagline: A simple and beautiful vuepress blog theme.
 # heroImage: /hero.png
 # heroImageStyle: {
@@ -12,7 +12,7 @@ tagline: A simple and beautiful vuepress blog theme.
 #   borderRadius: '1rem',
 # }
 bgImageStyle: {
-  height: '450px'
+  height: 'calc(100vh - 3.4rem)'
 }
 isShowTitleInHome: false
 actionText: Guide
